@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "exported_at": "2026-06-25T00:00:58.138Z",
+    "source": "gnk-lens-worker",
+    "epoch_id": 307
+  },
+  "data": {
+    "id": 307,
+    "participants": [
+      {
+        "address": "gonka1kvmerzu64094dt9t62ea0cp75larh39ulzldum",
+        "weight": 115792,
+        "voting_power": 115792,
+        "inference_url": "http://78.46.89.87:8000",
+        "validator_key": "EKjIeL5EL11oIwOUYgb9uWpyMcZZ/Dj7iJ9XiQuXZXY="
+      },
+      {
+        "address": "gonka1d694r00czmq75txghwjcuk07lxvc8d4ekgsha0",
+        "weight": 41105,
+        "voting_power": 41105,
+        "inference_url": "http://network002.kaitaku.ai:8000",
+        "validator_key": "BKn8ihjC7qa2bBqLkvg/CaG0bp2PUXZCTAOibTz4DL4="
+      },
+      {
+        "address": "gonka1s9tqdht34yrdvcstyytmqzaqqup2ms7jjy9589",
+        "weight": 29898,
+        "voting_power": 29898,
+        "inference_url": "http://78.46.77.24:8000",
+        "validator_key": "TfRq3z7DRTwTeNLArKJeDk9AfRaYI4Zhnx3xaUJS018="
+      },
+      {
+        "address": "gonka1tja3g2da45efhe2p83gk3whtussmgmtsdlgprt",
+        "weight": 29132,
+        "voting_power": 29132,
+        "inference_url": "http://148.113.47.235:8000",
+        "validator_key": "fkjx5zO682KEA2IGHteNGtWbEOeArd3Hc3GFThJhv5U="
+      },
+      {
+        "address": "gonka1yal0ysgzc860zt3y8cds8656tnueusgymftvkw",
+        "weight": 28873,
+        "voting_power": 28873,
+        "inference_url": "http://94.130.152.246:8000",
+        "validator_key": "dK6r1yjQTeC2uimK+elYUMEQ4Yrm5rc8oeR1aKkMRxg="
+      },
+      {
+        "address": "gonka1hwvel7n3zuk6wruefuzc356l9myske9stckwnz",
+        "weight": 24013,
+        "voting_power": 24013,
+        "inference_url": "http://148.113.47.71:8000",
+        "validator_key": "8hnMZgDeWgRcP/cfoOVS6x7wJ/9zQnbP9twQpLvFwwE="
+      },
+      {
+        "address": "gonka1gvrrhjmy4w4mayvs2s5l23edj8ertcmtd2v4zr",
+        "weight": 19938,
+        "voting_power": 19938,
+        "inference_url": "http://54.38.118.143:8000",
+        "validator_key": "Gw5wjfmpdfIuPMaULbUNvukmB7wSF/A7Qwuhha+ssB4="
+      },
+      {
+        "address": "gonka1007n977a7uda3pd9m6hftw8xcql0tc20m96myu",
+        "weight": 17961,
+        "voting_power": 17961,
+        "inference_url": "http://178.105.166.7:8000",
+        "validator_key": "mC+j4vWPkEvVOeKZiS0g9mHf7fthh/QphsSarOXHNoQ="
+      },
+      {
+        "address": "gonka125n6kr5gvdup0lndfkps7t6rd6592panhrg3np",
+        "weight": 16287,
+        "voting_power": 16287,
+        "inference_url": "http://88.198.4.29:8000",
+        "validator_key": "kPU5JJEHWoFKVDIH14BAPFTZ53ZtviVh0+obouI+29s="
+      },
+      {
+        "address": "gonka168rtjfkszuhcggg4dfyse4yh7xn9zwfglnkns2",
+        "weight": 11714,
+        "voting_power": 11714,
+        "inference_url": "http://network000.kaitaku.ai:8000",
+        "validator_key": "LzNKlnifk3ZYNzcXFrBlgGBEpq40CK8feQ5JrPTDaTw="
+      },
+      {
+        "address": "gonka10mmdjau4dnj8krs7sh7t7635ttnmq9u3vqgz09",
+        "weight": 11528,
+        "voting_power": 11528,
+        "inference_url": "http://89.149.242.149:8000",
+        "validator_key": "1MsHbnXp09bUZK/WEJVpwTOiZgKN+P5R7zuXXQUnYDM="
+      },
+      {
+        "address": "gonka1gtdrqh9jpkqxdaskxkpwjpy2q284q8qnvg58uj",
+        "weight": 9381,
+        "voting_power": 9381,
+        "inference_url": "http://95.133.253.169:8000",
+        "validator_key": "rIWKJvhuGkhYBN0/geWgVIw6CA3rG1b56C7Nkrn47aM="
+      },
+      {
+        "address": "gonka1aw77zuy536tufqd56zfq6ev3234u5ftty0zkte",
+        "weight": 8407,
+        "voting_power": 8407,
+        "inference_url": "http://95.217.35.48:8000",
+        "validator_key": "VDUNcrV8Y0yYgJlnHRivMRm8x1U8jx2MR38HYYx7BPQ="
+      },
+      {
+        "address": "gonka1ujg4pt8crhxdymnsatalzdj0hhkgfqjmlp9zel",
+        "weight": 8389,
+        "voting_power": 8389,
+        "inference_url": "http://85.17.200.89:8000",
+        "validator_key": "dsByjYdZyNl5zyVEhJBi3CSPyRiqeOdN8PgYOKeyAJQ="
+      },
+      {
+        "address": "gonka16j7xfk3hvguy5gz95mzg3p5dkuwla7aux03kdw",
+        "weight": 8369,
+        "voting_power": 8369,
+        "inference_url": "http://159.69.59.139:8000",
+        "validator_key": "Z9nAN4S5sAS+uulOFIZudMoLGb0Fc58o09LyLQPLqis="
+      },
+      {
+        "address": "gonka1f0u3y2wneer8zhz3ypw4x54h38cpa0qsy8ts3e",
+        "weight": 8309,
+        "voting_power": 8309,
+        "inference_url": "http://95.217.122.154:8000",
+        "validator_key": "1ilXHcm6sWXBvaVhGUjjwPFzr+xbDEqPFwjoHipj+/Y="
+      },
+      {
+        "address": "gonka1skw86pm4dvfhzslu5a9gsc98ahspalge8rprp4",
+        "weight": 8249,
+        "voting_power": 8249,
+        "inference_url": "http://88.99.213.222:8000",
+        "validator_key": "OfKVYsD0+faRz5v5khWarI4jRSaieuyijvnRiTwveWk="
+      },
+      {
+        "address": "gonka1ym3np7guxart483yfdxnlztuazx22cjt0e4a2p",
+        "weight": 5311,
+        "voting_power": 5311,
+        "inference_url": "http://46.4.101.189:8000",
+        "validator_key": "RpybUPIxWuzq83a7BqPL2dvUMc2cyPWljCcIwW/RFRI="
+      },
+      {
+        "address": "gonka1nmn039cgpkhmkzekpkfz3nkv9tcjckpn46jyrj",
+        "weight": 4732,
+        "voting_power": 4732,
+        "inference_url": "http://94.237.52.191:8000",
+        "validator_key": "GS0Cn9uYKd9xrPK1VEnwKWg6DS97aFGDB+3OdGgdLv8="
+      },
+      {
+        "address": "gonka1tlvg4kjx7ljd5thgd5fkgh39q6lu8cmxupktgg",
+        "weight": 3180,
+        "voting_power": 3180,
+        "inference_url": "http://gnk.antifreeze.dev:8000",
+        "validator_key": "1lTDgkHP4xflr3onskHMNWHtKeNqzjWNhfHxKlxFhxA="
+      },
+      {
+        "address": "gonka12pcu9mcrpa4w4sjd9y3dsksnvu495ss6f9r4ra",
+        "weight": 2604,
+        "voting_power": 2604,
+        "inference_url": "http://162.55.232.115:8000",
+        "validator_key": "aVjnIbFCA91pBgh+9efqFNobNu8my/kDn2xZckGkGwk="
+      },
+      {
+        "address": "gonka15p7s7w2hx0y8095lddd4ummm2y0kwpwljk00aq",
+        "weight": 2259,
+        "voting_power": 2259,
+        "inference_url": "http://125.93.200.207:8000",
+        "validator_key": "iSKrf2j5GcRLjorA5M56q48FhH/Th8UuLrUtK8yfUnI="
+      },
+      {
+        "address": "gonka1kx9mca3xm8u8ypzfuhmxey66u0ufxhs7nm6wc5",
+        "weight": 1840,
+        "voting_power": 1840,
+        "inference_url": "https://node3.gonka.ai",
+        "validator_key": "FODVOcIY8RNoGA7WsiNSL6YQ8N4/A5Ox1IyXgc/FmE0="
+      },
+      {
+        "address": "gonka1y2a9p56kv044327uycmqdexl7zs82fs5ryv5le",
+        "weight": 898,
+        "voting_power": 898,
+        "inference_url": "http://node1.gonka.ai:8000",
+        "validator_key": "OPwcpfQYOoWDuHKYivRVq5jxrELH0moP5qdznvj3Dps="
+      },
+      {
+        "address": "gonka1dkl4mah5erqggvhqkpc8j3qs5tyuetgdy552cp",
+        "weight": 819,
+        "voting_power": 819,
+        "inference_url": "http://node2.gonka.ai:8000",
+        "validator_key": "YHtcky8VaH0qQNhYJkN61RPf83oKWsCPXdaewvDEYLo="
+      },
+      {
+        "address": "gonka1u4zxypjgcr8khlzefwjr0vwdaj2uzruw2cehj3",
+        "weight": 712,
+        "voting_power": 712,
+        "inference_url": "http://185.216.23.48:8000",
+        "validator_key": "8QWJp092Lj7QTedw/Tx36yVzDh4/bqQv04o2wfJvryE="
+      },
+      {
+        "address": "gonka1d7p03cu2y2yt3vytq9wlfm6tlz0lfhlgv9h82p",
+        "weight": 679,
+        "voting_power": 679,
+        "inference_url": "http://47.236.26.199:8000",
+        "validator_key": "5QYFI0kdyBPrcld3FfOwoZdynfwN5li0qUbg3zwFK4I="
+      },
+      {
+        "address": "gonka1qu9mna5xlvlnw9455ygtjq92wuzkzm237w8l08",
+        "weight": 659,
+        "voting_power": 659,
+        "inference_url": "http://195.12.105.9:8000",
+        "validator_key": "OuqOLEhb/bhj1mzC0R1lWTatlorQaFR9YwiO6T/SYuw="
+      },
+      {
+        "address": "gonka1qwfrtz9c7kcrfkrrlne2pkcye74mj6ce33xdkl",
+        "weight": 600,
+        "voting_power": 600,
+        "inference_url": "http://84.32.59.212:8000",
+        "validator_key": "if9OZ66R/D2xm9hBDKb+jGHeNTE25muzb+1SxsP38A0="
+      },
+      {
+        "address": "gonka1p2lhgng7tcqju7emk989s5fpdr7k2c3ek6h26m",
+        "weight": 558,
+        "voting_power": 558,
+        "inference_url": "http://47.236.19.22:18000",
+        "validator_key": "LLqBxOz+vD3p7sQsdEhBfrFH2QFMjy3fMasB9yBGSqs="
+      },
+      {
+        "address": "gonka1346p2h8dn4kp98c5e93k5q64g0h7vxjxnd55fh",
+        "weight": 480,
+        "voting_power": 480,
+        "inference_url": "http://78.111.80.104:8000",
+        "validator_key": "Aexenb5iC3WNaKNjCdt1UDin4/T6X04ZKSZrsSNA2m0="
+      },
+      {
+        "address": "gonka1vjz8csqsr0ph0lv0yylc4auypnzrld7y6l2feu",
+        "weight": 420,
+        "voting_power": 420,
+        "inference_url": "http://95.216.112.248:8000",
+        "validator_key": "BSqH9nNh6Jh9N3gnod2dQyjnmpRjk1DeAfUalwOy+44="
+      },
+      {
+        "address": "gonka1gyk0aahvr3qeju4zx0nplfreej6cy4jjk8svc5",
+        "weight": 321,
+        "voting_power": 321,
+        "inference_url": "http://69.48.159.137:8000/",
+        "validator_key": "22Hk1nISJrCk+HwWu2ahvvMAvC+AuyDhaMsM4kkZm8E="
+      }
+    ],
+    "total_weight": 423417,
+    "total_participants": 33,
+    "top_by_weight": [
+      {
+        "address": "gonka1kvmerzu64094dt9t62ea0cp75larh39ulzldum",
+        "weight": 115792,
+        "voting_power": 115792,
+        "inference_url": "http://78.46.89.87:8000",
+        "validator_key": "EKjIeL5EL11oIwOUYgb9uWpyMcZZ/Dj7iJ9XiQuXZXY="
+      },
+      {
+        "address": "gonka1d694r00czmq75txghwjcuk07lxvc8d4ekgsha0",
+        "weight": 41105,
+        "voting_power": 41105,
+        "inference_url": "http://network002.kaitaku.ai:8000",
+        "validator_key": "BKn8ihjC7qa2bBqLkvg/CaG0bp2PUXZCTAOibTz4DL4="
+      },
+      {
+        "address": "gonka1s9tqdht34yrdvcstyytmqzaqqup2ms7jjy9589",
+        "weight": 29898,
+        "voting_power": 29898,
+        "inference_url": "http://78.46.77.24:8000",
+        "validator_key": "TfRq3z7DRTwTeNLArKJeDk9AfRaYI4Zhnx3xaUJS018="
+      },
+      {
+        "address": "gonka1tja3g2da45efhe2p83gk3whtussmgmtsdlgprt",
+        "weight": 29132,
+        "voting_power": 29132,
+        "inference_url": "http://148.113.47.235:8000",
+        "validator_key": "fkjx5zO682KEA2IGHteNGtWbEOeArd3Hc3GFThJhv5U="
+      },
+      {
+        "address": "gonka1yal0ysgzc860zt3y8cds8656tnueusgymftvkw",
+        "weight": 28873,
+        "voting_power": 28873,
+        "inference_url": "http://94.130.152.246:8000",
+        "validator_key": "dK6r1yjQTeC2uimK+elYUMEQ4Yrm5rc8oeR1aKkMRxg="
+      },
+      {
+        "address": "gonka1hwvel7n3zuk6wruefuzc356l9myske9stckwnz",
+        "weight": 24013,
+        "voting_power": 24013,
+        "inference_url": "http://148.113.47.71:8000",
+        "validator_key": "8hnMZgDeWgRcP/cfoOVS6x7wJ/9zQnbP9twQpLvFwwE="
+      },
+      {
+        "address": "gonka1gvrrhjmy4w4mayvs2s5l23edj8ertcmtd2v4zr",
+        "weight": 19938,
+        "voting_power": 19938,
+        "inference_url": "http://54.38.118.143:8000",
+        "validator_key": "Gw5wjfmpdfIuPMaULbUNvukmB7wSF/A7Qwuhha+ssB4="
+      },
+      {
+        "address": "gonka1007n977a7uda3pd9m6hftw8xcql0tc20m96myu",
+        "weight": 17961,
+        "voting_power": 17961,
+        "inference_url": "http://178.105.166.7:8000",
+        "validator_key": "mC+j4vWPkEvVOeKZiS0g9mHf7fthh/QphsSarOXHNoQ="
+      },
+      {
+        "address": "gonka125n6kr5gvdup0lndfkps7t6rd6592panhrg3np",
+        "weight": 16287,
+        "voting_power": 16287,
+        "inference_url": "http://88.198.4.29:8000",
+        "validator_key": "kPU5JJEHWoFKVDIH14BAPFTZ53ZtviVh0+obouI+29s="
+      },
+      {
+        "address": "gonka168rtjfkszuhcggg4dfyse4yh7xn9zwfglnkns2",
+        "weight": 11714,
+        "voting_power": 11714,
+        "inference_url": "http://network000.kaitaku.ai:8000",
+        "validator_key": "LzNKlnifk3ZYNzcXFrBlgGBEpq40CK8feQ5JrPTDaTw="
+      },
+      {
+        "address": "gonka10mmdjau4dnj8krs7sh7t7635ttnmq9u3vqgz09",
+        "weight": 11528,
+        "voting_power": 11528,
+        "inference_url": "http://89.149.242.149:8000",
+        "validator_key": "1MsHbnXp09bUZK/WEJVpwTOiZgKN+P5R7zuXXQUnYDM="
+      },
+      {
+        "address": "gonka1gtdrqh9jpkqxdaskxkpwjpy2q284q8qnvg58uj",
+        "weight": 9381,
+        "voting_power": 9381,
+        "inference_url": "http://95.133.253.169:8000",
+        "validator_key": "rIWKJvhuGkhYBN0/geWgVIw6CA3rG1b56C7Nkrn47aM="
+      },
+      {
+        "address": "gonka1aw77zuy536tufqd56zfq6ev3234u5ftty0zkte",
+        "weight": 8407,
+        "voting_power": 8407,
+        "inference_url": "http://95.217.35.48:8000",
+        "validator_key": "VDUNcrV8Y0yYgJlnHRivMRm8x1U8jx2MR38HYYx7BPQ="
+      },
+      {
+        "address": "gonka1ujg4pt8crhxdymnsatalzdj0hhkgfqjmlp9zel",
+        "weight": 8389,
+        "voting_power": 8389,
+        "inference_url": "http://85.17.200.89:8000",
+        "validator_key": "dsByjYdZyNl5zyVEhJBi3CSPyRiqeOdN8PgYOKeyAJQ="
+      },
+      {
+        "address": "gonka16j7xfk3hvguy5gz95mzg3p5dkuwla7aux03kdw",
+        "weight": 8369,
+        "voting_power": 8369,
+        "inference_url": "http://159.69.59.139:8000",
+        "validator_key": "Z9nAN4S5sAS+uulOFIZudMoLGb0Fc58o09LyLQPLqis="
+      },
+      {
+        "address": "gonka1f0u3y2wneer8zhz3ypw4x54h38cpa0qsy8ts3e",
+        "weight": 8309,
+        "voting_power": 8309,
+        "inference_url": "http://95.217.122.154:8000",
+        "validator_key": "1ilXHcm6sWXBvaVhGUjjwPFzr+xbDEqPFwjoHipj+/Y="
+      },
+      {
+        "address": "gonka1skw86pm4dvfhzslu5a9gsc98ahspalge8rprp4",
+        "weight": 8249,
+        "voting_power": 8249,
+        "inference_url": "http://88.99.213.222:8000",
+        "validator_key": "OfKVYsD0+faRz5v5khWarI4jRSaieuyijvnRiTwveWk="
+      },
+      {
+        "address": "gonka1ym3np7guxart483yfdxnlztuazx22cjt0e4a2p",
+        "weight": 5311,
+        "voting_power": 5311,
+        "inference_url": "http://46.4.101.189:8000",
+        "validator_key": "RpybUPIxWuzq83a7BqPL2dvUMc2cyPWljCcIwW/RFRI="
+      },
+      {
+        "address": "gonka1nmn039cgpkhmkzekpkfz3nkv9tcjckpn46jyrj",
+        "weight": 4732,
+        "voting_power": 4732,
+        "inference_url": "http://94.237.52.191:8000",
+        "validator_key": "GS0Cn9uYKd9xrPK1VEnwKWg6DS97aFGDB+3OdGgdLv8="
+      },
+      {
+        "address": "gonka1tlvg4kjx7ljd5thgd5fkgh39q6lu8cmxupktgg",
+        "weight": 3180,
+        "voting_power": 3180,
+        "inference_url": "http://gnk.antifreeze.dev:8000",
+        "validator_key": "1lTDgkHP4xflr3onskHMNWHtKeNqzjWNhfHxKlxFhxA="
+      }
+    ],
+    "snapshot_at": "2026-06-25T00:00:34.214Z"
+  }
+}
